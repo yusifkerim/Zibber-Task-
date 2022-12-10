@@ -1,0 +1,10 @@
+@mixin h1($font,$font_s,$font_w,$line_h,$clr){
+    font-family: $font;
+    font-size: $font_s;
+    font-weight: $font_w;
+    line-height: $line_h;
+    color: $clr;
+}
+
+
+
